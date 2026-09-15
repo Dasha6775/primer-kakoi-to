@@ -1,0 +1,19 @@
+body{
+    color: #fff;
+    background-color: #000;
+    margin: 0f;
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+}
+p{
+  margin: 0 0 10px 0;
+}
+.continer{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
